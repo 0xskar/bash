@@ -3,10 +3,11 @@
 A collection of my bash scripts
 
 Finished:
-- newuser.sh - A simple script automating creation of new user account and assigning them to groups.
+- userCreate.sh - A simple script automating creation of new user account and assigning them to groups.
+- theCount.sh - A script that takes a file as input and counts the number of lines, words, and characters in the file.
 
 Ideas To-do:
-- A script that takes a file as input and counts the number of lines, words, and characters in the file.
+
 - A script that generates a random password and displays it to the user.
 - A script that checks the disk space usage on the system and sends an email alert if the usage exceeds a certain threshold.
 - A script that backs up a specified directory to a remote location (e.g. a remote server or cloud storage service).

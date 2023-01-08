@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-# 0xskar newuser.sh
+# A simple script automating creation of new user account and assigning them to groups.
+#
+# 0xskar userCreate.sh
 
 read -p "Enter username: " username
 read -p "Enter group: " group
