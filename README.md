@@ -6,8 +6,6 @@ Finished:
 - newuser.sh - A simple script automating creation of new user account and assigning them to groups.
 
 Ideas To-do:
-- A script that prompts the user for a name and then prints a personalized greeting.
-- A script that calculates and displays the result of a basic arithmetic operation (e.g. addition, subtraction, multiplication, or division).
 - A script that takes a file as input and counts the number of lines, words, and characters in the file.
 - A script that generates a random password and displays it to the user.
 - A script that checks the disk space usage on the system and sends an email alert if the usage exceeds a certain threshold.
