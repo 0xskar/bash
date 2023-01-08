@@ -9,8 +9,7 @@ Finished:
 In Progress:
 - A script that generates a random password and displays it to the user.
 
-
-Ideas To-do:
+To-do:
 - A script that checks the disk space usage on the system and sends an email alert if the usage exceeds a certain threshold.
 - A script that backs up a specified directory to a remote location (e.g. a remote server or cloud storage service).
 - A script that checks the system logs for error messages and sends an email alert if any are found.
